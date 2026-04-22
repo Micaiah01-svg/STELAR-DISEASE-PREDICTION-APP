@@ -75,7 +75,7 @@ The development process included:
 
 **1\. Clone the repository**
 
-git clone https://github.com/[Micaiah01-svg](https://github.com/Micaiah01-svg)/[STELAR-DISEASE-PREDICTION-APP](https://github.com/Micaiah01-svg/STELAR-DISEASE-PREDICTION-APP).git
+git clone https://github.com/Micaiah01-svg/STELAR-DISEASE-PREDICTION-APP.git
 
 **2\. Navigate into the project folder**
 
@@ -83,7 +83,7 @@ cd STELAR-DISEASE-PREDICTION-APP
 
 **3\. Install dependencies**
 
-pip install -r requirements.txt
+!pip install -r requirements.txt
 
 **4\. Run the application**
 
